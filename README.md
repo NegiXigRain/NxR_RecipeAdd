@@ -1,5 +1,3 @@
 # NxR_RecipeAdd
-An addon for Minecraft Bedrock Edition that add QoL Recipes<br>NxR = **N**egi**X**ig**R**ain (Did you notice?)  
-
-I DON'T want to break Minecraft vanilla's balance
-<br>We are looking for recipe ideas :)
+Minecraft統合版用にレシピを追加するアドオン  
+アイテム追加なし、バランス破壊なし(モブドロップ/希少アイテムは1度ゲットしてからのみ複製が可能)
