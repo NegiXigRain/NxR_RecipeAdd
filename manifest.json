@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "レシピ追加アドオン V1.0.1",
+        "description": "Version:1.0.1\nマイクラを少し便利にするレシピを追加します。詳細は配布サイトをご確認ください。",
+        "uuid": "fd194883-1303-426d-b95f-d114c48da4c2",
+        "version": [ 1, 0, 1 ],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [    
+        {
+            "description": "NO DESCRIPTION",
+            "type": "data",
+            "uuid": "9c9cc7f9-221c-4d8f-9f5f-f4b79fdda192",
+            "version": [ 1, 0, 1 ]
+        }
+    ],
+    "metadata": {
+        "authors": ["NegiXigRain"],
+        "url": "https://github.com/Negitoro2357/"
+    }
+  }
