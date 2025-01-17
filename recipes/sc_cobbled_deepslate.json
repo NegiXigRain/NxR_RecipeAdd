@@ -1,0 +1,21 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+        "identifier": "minecraft:cobbled_deepslate"
+        },
+
+        "tags": [ "stonecutter" ],
+        "priority": 1,
+        "ingredients": [
+            {
+                "item": "minecraft:deepslate"
+            }
+        ],
+        "result" : {
+            "count" : 1,
+            "data" : 0,
+            "item" : "minecraft:cobbled_deepslate"
+        }
+    }
+}
